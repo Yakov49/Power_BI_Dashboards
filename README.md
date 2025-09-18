@@ -18,3 +18,22 @@ Built in Power BI, the report demonstrates practical skills such as **drill-thro
 - **Interactivity:** slicers for role and other filters; **drill-through** from the overview to a role-detail page; **zoom slider** on continuous axes.
 - **Layout & design:** consistent number formats, clear titles and labels, restrained palette, and spacing for readability on standard screens.
 
+## Dashboard overview
+
+### Page 1: Overview
+![Dashboard](dashboard.png)
+
+A concise, at-a-glance view of the data-jobs market. It presents core KPIs—**total job count**, **median annual/hourly pay**, and **top job titles**—so you can quickly grasp current trends. Use the slicers to focus the view; selecting a role enables drill-through to the detail page.
+
+### Page 2: Job Title Drill-through
+![Drill-through](dashboard.png)
+
+The detail view for a single role. Drilling through from the overview opens this page with focused metrics: **salary levels** (annual and hourly), **work-from-home share**, **no-degree mentions**, **top platforms**, and a **map of job locations**. Use the back button to return to the main dashboard.
+
+## Conclusion
+
+This dashboard demonstrates how Power BI can turn job-posting data into a clear, interactive analysis. It highlights core skills—data modelling, measures, thoughtful visual design, slicers, and drill-through—to surface market trends and pay patterns in a concise, inspectable format.
+
+
+
+
