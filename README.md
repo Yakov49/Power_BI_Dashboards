@@ -1,6 +1,6 @@
 # Data Jobs Dashboard (Power BI)
 
-![Dashboard](dashboard.png)
+![Dashboard](/assets/dashboard.png)
 
 ## Introduction
 This dashboard analyses a real-world dataset of **2024 data-related job postings** (titles, salaries, and locations). It consolidates scattered information into a single, interactive view to explore **market trends** and **compensation** across roles.
@@ -26,7 +26,7 @@ Built in Power BI, the report demonstrates practical skills such as **drill-thro
 A concise, at-a-glance view of the data-jobs market. It presents core KPIs—**total job count**, **median annual/hourly pay**, and **top job titles**—so you can quickly grasp current trends. Use the slicers to focus the view; selecting a role enables drill-through to the detail page.
 
 ### Page 2: Job Title Drill-through
-![Drill-through](drill_to_job.JPG)
+![Drill-through](/assets/drill_to_job.JPG)
 
 The detail view for a single role. Drilling through from the overview opens this page with focused metrics: **salary levels** (annual and hourly), **work-from-home share**, **no-degree mentions**, **top platforms**, and a **map of job locations**. Use the back button to return to the main dashboard.
 
