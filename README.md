@@ -1,5 +1,7 @@
 # Data Jobs Dashboard (Power BI)
 
+![Dashboard](dashboard.png)
+
 ## Introduction
 This dashboard analyses a real-world dataset of **2024 data-related job postings** (titles, salaries, and locations). It consolidates scattered information into a single, interactive view to explore **market trends** and **compensation** across roles.
 
